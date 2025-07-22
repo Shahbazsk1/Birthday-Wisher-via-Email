@@ -5,8 +5,8 @@ from datetime import datetime
 import pandas
 
 
-MY_EMAIL = "15xxshahbazxx15@gmail.com"
-MY_PASSWORD = "amcq xmaq oiub yxrg"
+MY_EMAIL = "Your email"
+MY_PASSWORD = "your email password"
 
 # 2. Check if today matches a birthday in the birthdays.csv
 today = datetime.now()
