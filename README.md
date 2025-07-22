@@ -53,7 +53,7 @@
     <p>python main.py</p>
   </li>
 </ol>
-
+<br>
 <h4>🔐 Security Note:</h4>
 <p>
   MY_EMAIL = "youremail@gmail.com"<br>
@@ -62,7 +62,6 @@
 <ul>
   <li>Never share your real Gmail password in code.</li>
   <li>Use Gmail App Passwords for this.</li>
-  <li>Alternatively, store credentials securely in environment variables or a .env file.</li>
 </ul>
 
 <h3>✅ Step-by-Step: Use Gmail App Password</h3>
