@@ -1,7 +1,7 @@
 # Birthday-Wisher-via-Email
 <h2>This project automatically sends a personalized birthday email to friends or family if their birthday matches today's date. It reads birthday data from a CSV file, selects a random birthday message template, customizes it with the recipient’s name, and sends the email using Gmail’s SMTP server.</h2>
 <h3>Main Features:</h3>
-<ul>
+<ol>
   <li>✅ Date Matching:
     <ul>
       <li>Checks if today matches any birthdays in the birthdays.csv file.</li>
@@ -18,7 +18,7 @@
       <li>Sends the email securely using Gmail (TLS encryption).</li>
     </ul>
   </li>
-</ul>
+</ol>
 <h3>🔹 Modules Used:</h3>
 <ul>
   <li><b>random :</b>	Picks a random birthday letter template.</li>
