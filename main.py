@@ -29,9 +29,3 @@ if today_tuple in birthdays_dict:
         connection.sendmail(from_addr=MY_EMAIL,
                             to_addrs=birthday_person["email"],
                             msg= f"Subject:Happy Birthday!\n\n{contents}")
-#
-# # 4. Send the letter generated in step 3 to that person's email address.
-# # HINT 4: The message should have the Subject: Happy Birthday then after \n\n The Message Body.
-#
-#
-#
